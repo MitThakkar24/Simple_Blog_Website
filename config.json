@@ -1,0 +1,25 @@
+{
+  "params":
+  {
+    "local_server" : "True",
+    "local_uri" : "mysql://root:@localhost/blogwebdatabase",
+    "prod_uri" : "mysql://root:@localhost/blogwebdatabase",
+    "fb_url" : "https://facebook.com",
+    "twitter_url" : "https://twitter.com/",
+    "github_url" : "https://github.com/MitThakkar24",
+    "blog_name" : "TMR's blog",
+    "tagline" : "Coding blog by Programmers",
+    "gmail-user": "****",
+    "gmail-password": "****",
+    "mail-receiver" : "****",
+    "about-text" : "Hello, My name is Thakkar mit. I Am learning data Science and Flask",
+    "number_of_post" : 2,
+    "login_image":"loginsvg.svg",
+    "admin_user":"tmr@gmail.com",
+    "admin_password": "iamtmr",
+    "upload_location" : "C:\\Users\\Asus\\OneDrive\\Documents\\GitHub\\DataScience\\Flask\\FlaskWebApplication\\static\\assets\\img"
+  }
+
+
+
+}
